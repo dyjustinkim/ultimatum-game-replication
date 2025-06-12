@@ -1,0 +1,7 @@
+name: ultimatum-game
+channels:
+  - conda-forge
+dependencies:
+  - openai
+  - numpy
+  - matplotlib
